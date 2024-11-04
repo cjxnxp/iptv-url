@@ -14,8 +14,9 @@
 - [iPhone端APP-aptv](https://apps.apple.com/cn/app/aptv/id1630403500)
 - [Mac端APP-aptv](https://apps.apple.com/cn/app/aptv/id1630403500)
 - [Apple TV端APP-aptv](https://apps.apple.com/cn/app/aptv/id1630403500)
-	
-	 
+- [win电脑端-VLC Media Player](https://www.videolan.org/vlc/download-windows.html)	
+- [win电脑端-kodi](https://kodi.tv/download/windows/)
+- 	 
 ### Ftindy精选	
 
 推荐直播源
